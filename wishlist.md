@@ -30,3 +30,6 @@
     * Oj Javore (2006) [discogs](https://www.discogs.com/ru/S%C3%B6nd%C3%B6rg%C5%91-Oj-Javore/release/11476140)
 * Джан ку
     * Великая же и неисследованная, славная же и ужасная (2019) [vk](https://vk.com/wall-4203_3467)
+
+#### Contact me 
+nafanz@mail.ru
