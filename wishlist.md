@@ -21,6 +21,8 @@
     * Mantras De Medicina (2019) [bandcamp](https://freedomcaf.bandcamp.com/releases)
 * Giuliano Gabriele 
     * Melodeonia (2013) [discogs](https://www.discogs.com/ru/Giuliano-Gabriele-Melodeonia/release/8500219)
+* Koby Israelite
+    * Provokation (2019) [bandcamp](https://kobyisraelite.bandcamp.com/album/provokation)
 * Spiritual Seasons 
     * Metal Age (2017) [kroogi](http://spiritual-seasons.kroogi.com/ru/download/3284802-Metal-Age.html)    
 * Stockmen 
