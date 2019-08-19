@@ -3,7 +3,6 @@
 * Inna de Yard (2019) [imdb](https://www.imdb.com/title/tt7621830), [kinopoisk](https://www.kinopoisk.ru/film/1245269)
 * Rudeboy: The Story of Trojan Records (2018) [imdb](https://www.imdb.com/title/tt8718814), [kinopoisk](https://www.kinopoisk.ru/film/1253839)
 * The Reports on Sarah and Saleem (2018) [imdb](https://www.imdb.com/title/tt7158582), [kinopoisk](https://www.kinopoisk.ru/film/1099321)
-* Winter in America (2019) [wetransfer](https://wepresent.wetransfer.com/story/deirdre-o-callaghan-skid-row/)
 * Why We Cycle (2017) [imdb](https://www.imdb.com/title/tt7927666)
 
 #### Music
