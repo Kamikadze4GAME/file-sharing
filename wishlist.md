@@ -15,14 +15,8 @@
     * Songs For The Sleepers (2006) [discogs](https://www.discogs.com/ru/Alex-Puddu-And-The-Butterfly-Collectors-Songs-For-The-Sleepers/release/4707969)
     * Mechanism And Technique (2008) [discogs](https://www.discogs.com/ru/Alex-Puddu-And-The-Butterfly-Collectors-Mechanism-And-Technique/master/806661)
     * Hell Is Other People (2010) [discogs](https://www.discogs.com/ru/Alex-Puddu-Hell-Is-Other-People/release/4106300)
-* Annique 
-    * Lady Wonder (2018)
-* Freedom Café
-    * Mantras De Medicina (2019) [bandcamp](https://freedomcaf.bandcamp.com/releases)
 * Giuliano Gabriele 
     * Melodeonia (2013) [discogs](https://www.discogs.com/ru/Giuliano-Gabriele-Melodeonia/release/8500219)
-* Koby Israelite
-    * Provokation (2019) [bandcamp](https://kobyisraelite.bandcamp.com/album/provokation)
 * Spiritual Seasons 
     * Metal Age (2017) [kroogi](http://spiritual-seasons.kroogi.com/ru/download/3284802-Metal-Age.html)    
 * Stockmen 
@@ -32,6 +26,8 @@
     * Oj Javore (2006) [discogs](https://www.discogs.com/ru/S%C3%B6nd%C3%B6rg%C5%91-Oj-Javore/release/11476140)
 * Джан ку
     * Великая же и неисследованная, славная же и ужасная (2019) [vk](https://vk.com/wall-4203_3467)
+* Сказы леса
+    * Живой кавёр (2019)
 
 #### Contact me 
 nafanz@mail.ru
