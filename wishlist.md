@@ -1,7 +1,6 @@
 #### Films
 * Endling (2017) [imdb](https://www.imdb.com/title/tt6116774), [kinopoisk](https://www.kinopoisk.ru/film/1020269)
 * Inna de Yard (2019) [imdb](https://www.imdb.com/title/tt7621830), [kinopoisk](https://www.kinopoisk.ru/film/1245269)
-* Rudeboy: The Story of Trojan Records (2018) [imdb](https://www.imdb.com/title/tt8718814), [kinopoisk](https://www.kinopoisk.ru/film/1253839)
 * The Reports on Sarah and Saleem (2018) [imdb](https://www.imdb.com/title/tt7158582), [kinopoisk](https://www.kinopoisk.ru/film/1099321)
 * Why We Cycle (2017) [imdb](https://www.imdb.com/title/tt7927666)
 
