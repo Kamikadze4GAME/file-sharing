@@ -10,3 +10,6 @@
 ### Usenet
 * [Provider](https://nafanz.github.io/usenetprovider.html)
 * [Indexer](https://nafanz.github.io/usenetindexer.html)
+
+### Misc
+* [Wishlist](https://nafanz.github.io/wishlist.html)
