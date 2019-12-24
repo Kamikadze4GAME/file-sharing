@@ -2,19 +2,16 @@
 
 <head>
     <title>File sharing</title>
-    <link rel="stylesheet" href="style.css" />
-    <link rel="import" href="menu.html" />
+    <link rel="import" href="menu.html"/>
 </head>
 
 <body>
-    <script src="sorting.js"></script>
-    <script src="update.js"></script>
     <script>
-        var link = document.querySelector('link[rel=import]');
-        var content = link.import.querySelector('#menu');
-        document.body.appendChild(content.cloneNode(true));
+    var link = document.querySelector('link[rel=import]');
+    var content = link.import.querySelector('#menu');
+    document.body.appendChild(content.cloneNode(true));
     </script>
-    <table class="sort" align="center">
+    <table id="table_id" class="display">
         <thead>
             <tr>
                 <td>File sharing</td>
@@ -34,7 +31,7 @@
                 <td>100000</td>
                 <!-- Shelf life -->
                 <td>15 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English, Russian</td>
@@ -48,7 +45,7 @@
                 <td>10000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -62,7 +59,7 @@
                 <td>10000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -76,7 +73,7 @@
                 <td>100</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -90,7 +87,7 @@
                 <td>No limit</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -104,7 +101,7 @@
                 <td>No limit</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -118,7 +115,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -132,7 +129,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>60</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -146,7 +143,7 @@
                 <td>500</td>
                 <!-- Shelf life -->
                 <td></td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -160,7 +157,7 @@
                 <td>No limit</td>
                 <!-- Shelf life -->
                 <td>3</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English</td>
@@ -174,7 +171,7 @@
                 <td>50000</td>
                 <!-- Shelf life -->
                 <td>14</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>Yes</td>
                 <!-- Language -->
                 <td>English, Russian</td>
@@ -188,7 +185,7 @@
                 <td>No limit</td>
                 <!-- Shelf life -->
                 <td>7</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English, Russian</td>
@@ -202,7 +199,7 @@
                 <td>2000</td>
                 <!-- Shelf life -->
                 <td>7</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>Russian</td>
@@ -216,7 +213,7 @@
                 <td>3000</td>
                 <!-- Shelf life -->
                 <td>21</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English</td>
@@ -230,7 +227,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>7 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>Russian</td>
@@ -244,7 +241,7 @@
                 <td>4000</td>
                 <!-- Shelf life -->
                 <td>30</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>Russian</td>
@@ -258,7 +255,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>30</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>Polish</td>
@@ -272,7 +269,7 @@
                 <td>750</td>
                 <!-- Shelf life -->
                 <td>10 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English, Russian</td>
@@ -286,7 +283,7 @@
                 <td>No limit</td>
                 <!-- Shelf life -->
                 <td>60</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -300,7 +297,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>30</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>French</td>
@@ -314,7 +311,7 @@
                 <td>10000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -328,7 +325,7 @@
                 <td>250</td>
                 <!-- Shelf life -->
                 <td>30</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -342,7 +339,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>28 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -356,7 +353,7 @@
                 <td>100</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -370,7 +367,7 @@
                 <td>10000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -384,7 +381,7 @@
                 <td>100000</td>
                 <!-- Shelf life -->
                 <td>20 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>Yes</td>
                 <!-- Language -->
                 <td>English, Russian</td>
@@ -398,7 +395,7 @@
                 <td>20000</td>
                 <!-- Shelf life -->
                 <td>2</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English</td>
@@ -412,7 +409,7 @@
                 <td>500</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English</td>
@@ -426,7 +423,7 @@
                 <td>100</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -440,7 +437,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>30</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -454,7 +451,7 @@
                 <td>50</td>
                 <!-- Shelf life -->
                 <td>7</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -468,7 +465,7 @@
                 <td>600</td>
                 <!-- Shelf life -->
                 <td>25 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>Russian</td>
@@ -482,7 +479,7 @@
                 <td>5000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -496,7 +493,7 @@
                 <td>10000</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -510,7 +507,7 @@
                 <td>100</td>
                 <!-- Shelf life -->
                 <td>365</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -524,7 +521,7 @@
                 <td>No limit</td>
                 <!-- Shelf life -->
                 <td>No limit</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -538,7 +535,7 @@
                 <td>2000</td>
                 <!-- Shelf life -->
                 <td>7</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English</td>
@@ -552,7 +549,7 @@
                 <td>500</td>
                 <!-- Shelf life -->
                 <td>60 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td></td>
                 <!-- Language -->
                 <td>English</td>
@@ -566,7 +563,7 @@
                 <td>1000</td>
                 <!-- Shelf life -->
                 <td>30</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>Yes</td>
                 <!-- Language -->
                 <td>Russian</td>
@@ -580,7 +577,7 @@
                 <td>500</td>
                 <!-- Shelf life -->
                 <td>30 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>No</td>
                 <!-- Language -->
                 <td>English, Russian</td>
@@ -594,7 +591,7 @@
                 <td>32000</td>
                 <!-- Shelf life -->
                 <td>30 +</td>
-                <!-- Download сount -->
+                <!-- Download count -->
                 <td>Yes</td>
                 <!-- Language -->
                 <td>Russian</td>
