@@ -24,5 +24,6 @@
 * Джан ку
     * Великая же и неисследованная, славная же и ужасная (2019) [vk](https://vk.com/wall-4203_3467)
 
-#### Contact me 
-nafanz@mail.ru
+#### Contacts
+
+Email `nafanz@mail.ru` or Reddit `u/x4fs1j`
