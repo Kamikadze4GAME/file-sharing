@@ -53,8 +53,6 @@ Recommendations: [IntelliJ IDEA Community](https://www.jetbrains.com/idea/), [Vi
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-* Profit
-
 You will get a notification email once the changes have been merged.
 
 * Synchronize your branch with this repository
@@ -66,6 +64,18 @@ Add the url of my repository to the field `upstream <remote url>`:
 Download the latest changes from my repository.
 
 `git fetch upstream`
+
+We are merging a new version of my repository with your master branch.
+
+`git rebase upstream/master`
+
+Pushing these changes to your GitHub repository.
+
+`git push origin master`
+
+* Profit
+
+Keep track of the project and make new changes.
 
 ### Contacts
 
