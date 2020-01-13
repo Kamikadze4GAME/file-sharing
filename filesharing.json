@@ -6,35 +6,44 @@
       "Free volume": "300 GB",
       "Shelf life": "15 +",
       "Download count": "-",
-      "Language": "English"},
+      "Language": "English",
+      "Application": "-"
+    },
     {
       "Name": "\"https://anonfiles.com\">AnonFiles</a>\"",
       "Type": "File sharing",
       "Free volume": "20 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English, Russian"},
+      "Language": "English, Russian",
+      "Application": "-"
+    },
     {
       "Name": "\"https://bayfiles.com\">BayFiles</a>\"",
       "Type": "File sharing",
       "Free volume": "20 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English, Russian"},
+      "Language": "English, Russian",
+      "Application": "-"
+    },
     {
       "Name": "\"https://clicknupload.org\">Clicknupload</a>\"",
       "Type": "File sharing",
       "Free volume": "2 GB",
       "Shelf life": "7 +",
       "Download count": "-",
-      "Language": "English"},
+      "Language": "English",
+      "Application": "-"
+    },
     {
       "Name": "\"https://dailyuploads.net\">Dailyuploads</a>\"",
       "Type": "File sharing",
       "Free volume": "-",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English, Russian"
+      "Language": "English, Russian",
+      "Application": "-"
     },
     {
       "Name": "\"http://dmca.gripe\">dmca.gripe</a>\"",
@@ -42,7 +51,8 @@
       "Free volume": "1 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://upload.disroot.org\">Disroot</a>\"",
@@ -50,7 +60,8 @@
       "Free volume": "1 GB",
       "Shelf life": "30",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://dropmeafile.com\">DropMeAFile</a>\"",
@@ -58,7 +69,8 @@
       "Free volume": "-",
       "Shelf life": "3",
       "Download count": "No",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://dropmefiles.com\">DropMeFiles</a>\"",
@@ -66,7 +78,8 @@
       "Free volume": "50 GB",
       "Shelf life": "14",
       "Download count": "Yes",
-      "Language": "English, Russian"
+      "Language": "English, Russian",
+      "Application": "-"
     },
     {
       "Name": "\"https://fex.net\">Fex</a>\"",
@@ -74,7 +87,8 @@
       "Free volume": "50 GB",
       "Shelf life": "7",
       "Download count": "-",
-      "Language": "English, Russian"
+      "Language": "English, Russian",
+      "Application": "-"
     },
     {
       "Name": "\"https://filecloud.me\">Filecloud</a>\"",
@@ -82,7 +96,8 @@
       "Free volume": "2 Gb",
       "Shelf life": "7",
       "Download count": "-",
-      "Language": "Russian"
+      "Language": "Russian",
+      "Application": "-"
     },
     {
       "Name": "\"http://fileconvoy.com\">FileConvoy</a>\"",
@@ -90,7 +105,8 @@
       "Free volume": "3 GB",
       "Shelf life": "21",
       "Download count": "No",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://file.karelia.ru\">FileKarelia</a>\"",
@@ -98,7 +114,8 @@
       "Free volume": "1 GB",
       "Shelf life": "7 +",
       "Download count": "No",
-      "Language": "Russian"
+      "Language": "Russian",
+      "Application": "-"
     },
     {
       "Name": "\"http://files.dp.ua\">files.dp.ua</a>\"",
@@ -106,7 +123,8 @@
       "Free volume": "50 GB",
       "Shelf life": "90",
       "Download count": "No",
-      "Language": "Russian"
+      "Language": "Russian",
+      "Application": "-"
     },
     {
       "Name": "\"http://filestore.com.ua\">FileStore</a>\"",
@@ -114,7 +132,8 @@
       "Free volume": "750 MB",
       "Shelf life": "10 +",
       "Download count": "No",
-      "Language": "English, Russian"
+      "Language": "English, Russian",
+      "Application": "-"
     },
     {
       "Name": "\"https://framadrop.org\">Framadrop</a>\"",
@@ -122,7 +141,8 @@
       "Free volume": "500 MB",
       "Shelf life": "1",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://dl.free.fr\">Free</a>\"",
@@ -130,7 +150,8 @@
       "Free volume": "1 GB",
       "Shelf life": "30",
       "Download count": "-",
-      "Language": "French"
+      "Language": "French",
+      "Application": "-"
     },
     {
       "Name": "\"https://fuskbugg.se\">FuskBugg</a>\"",
@@ -138,7 +159,8 @@
       "Free volume": "20 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "Swedish"
+      "Language": "Swedish",
+      "Application": "-"
     },
     {
       "Name": "\"http://ge.tt\">ge.tt</a>\"",
@@ -146,7 +168,8 @@
       "Free volume": "250 MB",
       "Shelf life": "30",
       "Download count": "Yes",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://www.load.to\">Load</a>\"",
@@ -154,7 +177,8 @@
       "Free volume": "1 GB",
       "Shelf life": "28 +",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://minfil.com\">minfil</a>\"",
@@ -162,7 +186,8 @@
       "Free volume": "20 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "Swedish"
+      "Language": "Swedish",
+      "Application": "-"
     },
     {
       "Name": "\"https://my-files.ru\">My-Files</a>\"",
@@ -170,7 +195,8 @@
       "Free volume": "100 GB",
       "Shelf life": "20 +",
       "Download count": "Yes",
-      "Language": "English, Russian"
+      "Language": "English, Russian",
+      "Application": "-"
     },
     {
       "Name": "\"https://www.myairbridge.com\">MyAirBridge</a>\"",
@@ -178,7 +204,8 @@
       "Free volume": "20 GB",
       "Shelf life": "2",
       "Download count": "No",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://mystore.to\">mystore</a>\"",
@@ -186,7 +213,8 @@
       "Free volume": "500 MB",
       "Shelf life": "-",
       "Download count": "No",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://nippyspace.com\">NippySpace</a>\"",
@@ -194,7 +222,8 @@
       "Free volume": "200 MB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://sendfile.su\">SendFile</a>\"",
@@ -202,7 +231,8 @@
       "Free volume": "600 MB",
       "Shelf life": "25 +",
       "Download count": "No",
-      "Language": "Russian"
+      "Language": "Russian",
+      "Application": "-"
     },
     {
       "Name": "\"https://send.tresorit.com\">Tresorit Send</a>\"",
@@ -210,7 +240,8 @@
       "Free volume": "5 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://upfile.mobi\">UpFile</a>\"",
@@ -218,7 +249,8 @@
       "Free volume": "10 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://upload.run\">UploadRun</a>\"",
@@ -226,7 +258,8 @@
       "Free volume": "250 MB",
       "Shelf life": "730",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://usersdrive.com\">UsersDrive</a>\"",
@@ -234,7 +267,8 @@
       "Free volume": "-",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"https://wetransfer.com\">WeTransfer</a>\"",
@@ -242,7 +276,8 @@
       "Free volume": "2 GB",
       "Shelf life": "7",
       "Download count": "No",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://yourfilestore.com\">YourFileStore</a>\"",
@@ -250,7 +285,8 @@
       "Free volume": "500 MB",
       "Shelf life": "60 +",
       "Download count": "-",
-      "Language": "English"
+      "Language": "English",
+      "Application": "-"
     },
     {
       "Name": "\"http://zalil.su\">Zalil</a>\"",
@@ -258,7 +294,8 @@
       "Free volume": "100 MB",
       "Shelf life": "30",
       "Download count": "Yes",
-      "Language": "Russian"
+      "Language": "Russian",
+      "Application": "-"
     },
     {
       "Name": "\"https://zippyshare.com\">Zippyshare</a>\"",
@@ -266,7 +303,8 @@
       "Free volume": "500 MB",
       "Shelf life": "30 +",
       "Download count": "No",
-      "Language": "English, Russian"
+      "Language": "English, Russian",
+      "Application": "-"
     }
   ]
 }
