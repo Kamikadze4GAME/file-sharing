@@ -1,0 +1,156 @@
+{
+  "spreadsheet": [
+    {
+      "Name": "\"https://allwaycloud.com\">Allway Cloud</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "1",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "-"
+    },
+    {
+      "Name": "\"https://www.zoolz.com/bigmind\">BigMIND</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "10",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://www.box.com\">Box</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "10",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"http://chomikuj.pl\">Chomikuj.pl</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "No limit",
+      "Download count": "No",
+      "Language": "Polish",
+      "Application": "Windows, Android, iOS"
+    },
+    {
+      "Name": "\"https://cozy.io\">Cozy Cloud</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "5",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://www.dropbox.com\">Dropbox</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "2",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://vault.elephantdrive.com\">ElephantDrive</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "2",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"http://ge.tt\">Ge.tt</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "2",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "Windows, Linux, MacOS"
+    },
+    {
+      "Name": "\"https://drive.google.com\">Google Drive</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "15",
+      "Download count": "No",
+      "Language": "English, Russian",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://classic.hidrive.com\">HiDrive</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "5",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://jumpshare.com\">Jumpshare</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "2",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "Windows, MacOS, iOS"
+    },
+    {
+      "Name": "\"https://www.mediafire.com\">MediaFire</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "10",
+      "Download count": "No",
+      "Language": "English",
+      "Application": "Android, iOS"
+    },
+    {
+      "Name": "\"https://mega.nz\">MEGA</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "15",
+      "Download count": "No",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://onedrive.live.com\">OneDrive</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "5",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://www.opendrive.com\">OpenDrive</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "5",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://www.pcloud.com\">pCloud</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "10",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://www.sync.com\">Sync</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "5",
+      "Download count": "-",
+      "Language": "English",
+      "Application": "Windows, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://disk.yandex.com\">Yandex.Disk</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "10",
+      "Download count": "Yes",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    },
+    {
+      "Name": "\"https://cloud.mail.ru\">Облако Mail.ru</a>\"",
+      "Type": "Cloud storage",
+      "Free volume": "8",
+      "Download count": "-",
+      "Language": "Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    }
+  ]
+}
