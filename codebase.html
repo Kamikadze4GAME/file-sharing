@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>Codebase</title>
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="jquery-3.2.1.min.js"></script>
+<script type="text/javascript" charset="utf8" src="jquery.dataTables.js"></script>
+
+<script>
+    $(document).ready( function () {
+    const options = {
+        ajax: {
+            url: 'codebase.json',
+            dataSrc: 'codebase'
+        },
+        columns: [
+            { data: 'Codebase' },
+            { data: 'Description' },
+            { data: 'Stack' },
+            { data: 'Development Status' }
+        ]
+        };
+    const table = $('#codebase').DataTable(options);
+} );
+</script>
+
+<table id="codebase" class="display">
+    <thead>
+    <tr>
+        <td>Codebase</td>
+        <td>Description</td>
+        <td>Stack</td>
+        <td>Development Status</td>
+    </tr>
+    </thead>
+</table>
+
+</html>
