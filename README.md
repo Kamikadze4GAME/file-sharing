@@ -43,7 +43,7 @@ Recommendations: [IntelliJ IDEA Community](https://www.jetbrains.com/idea/), [Vi
 * Commit the changes and push
 
 ```
-git commit -m "Add <name cloud storage or file sharing>"`
+git commit -m "Add <name cloud storage or file sharing>"
 git push
 ```
 
