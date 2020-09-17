@@ -4,8 +4,8 @@ It is based on [GitHub Page](https://pages.github.com) and has the ability to so
 
 #### File sharing & Cloud storage
 
-* [File sharing](https://nafanz.github.io/filesharing.html) - only resources that do not require registration.
-* [Cloud storage](https://nafanz.github.io/cloudstorage.html) - only resources with a free tariff unlimited in time of use (not trial).
+* **File sharing** - only resources that do not require registration.
+* **Cloud storage** - only resources with a free tariff unlimited in time of use (not trial).
 
 #### Misc
 * [Wishlist](https://nafanz.github.io/wishlist.html) - what I want to find (movies, music).
@@ -26,28 +26,26 @@ Go to your GitHub account, open the forked repository, click on the `Clone or do
 
 Recommendations: [IntelliJ IDEA Community](https://www.jetbrains.com/idea/), [Visual Studio Code](https://code.visualstudio.com) or [Sublime Text](https://www.sublimetext.com)
 
-* Make changes to the file `cloudstorage.html` or `filesharing.html`, for example:
+* Make changes to the file `spreadsheet.json`, for example:
 
 ```
-<tr>
-    <!-- File sharing -->
-    <td>
-        <a href="https://1fichier.com">1fichier</a>
-    </td>
-    <!-- Maximum file size -->
-    <td>300 GB</td>
-    <!-- Shelf life -->
-    <td>15 +</td>
-    <!-- Download count -->
-    <td>-</td>
-    <!-- Language -->
-    <td>English</td>
-</tr>
+    {
+      "Name": "<a href=\"https://www.dropbox.com\">Dropbox</a>",
+      "Type": "Cloud storage",
+      "Free volume": "2",
+      "Shelf life": "-",
+      "Download count": "-",
+      "Language": "English, Russian",
+      "Application": "Windows, Linux, MacOS, Android, iOS"
+    }
 ```
 
 * Commit the changes and push
 
-`git commit -m "Add <name cloud storage or file sharing>"`
+```
+git commit -m "Add <name cloud storage or file sharing>"
+git push
+```
 
 * Submit your changes for review
 

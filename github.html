@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <title>github</title>
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="jquery-3.2.1.min.js"></script>
+<script type="text/javascript" charset="utf8" src="jquery.dataTables.js"></script>
+
+<script>
+    $(document).ready( function () {
+    const options = {
+        ajax: {
+            url: 'github.json',
+            dataSrc: 'github'
+        },
+        columns: [
+            { data: 'full_name' },
+            { data: 'description' },
+            { data: 'homepage' },
+            { data: 'created_at' },
+            { data: 'updated_at' },
+            { data: 'languages' }
+        ]
+        };
+    const table = $('#github').DataTable(options);
+} );
+</script>
+
+<table id="github" class="display">
+    <thead>
+    <tr>
+        <td>full_name</td>
+        <td>description</td>
+        <td>homepage</td>
+        <td>created_at</td>
+        <td>updated_at</td>
+        <td>languages</td>
+    </tr>
+    </thead>
+</table>
+
+</html>

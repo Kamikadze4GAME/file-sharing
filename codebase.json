@@ -1,0 +1,40 @@
+{
+  "codebase": [
+    {
+      "Codebase": "<a href=\"https://github.com/HDInnovations/UNIT3D-Community-Edition\">UNIT3D</a>",
+      "Description": "A Next Generation Private Torrent Tracker (Community Edition)",
+      "Stack": "PHP, Laravel, VueJS",
+      "Development Status": "Active"
+    },
+    {
+      "Codebase": "<a href=\"https://github.com/Rhilip/RidPT\">RidPT</a>",
+      "Description": "A Private Tracker System",
+      "Stack": "MixPHP, Zui",
+      "Development Status": "Active"
+    },
+    {
+      "Codebase": "<a href=\"https://github.com/taobataoma/meanTorrent\">meanTorrent</a>",
+      "Description": "MEAN.JS BitTorrent Private Tracker",
+      "Stack": "JavaScript, MongoDB, Express, AngularJS, Node.js",
+      "Development Status": "Dead"
+    },
+    {
+      "Codebase": "<a href=\"https://github.com/swetorrentking/rartracker\">rartracker</a>",
+      "Description": "-",
+      "Stack": "PHP, AngularJS",
+      "Development Status": "Dead"
+    },
+    {
+      "Codebase": "<a href=\"https://github.com/nyaadevs/nyaa\">nyaa</a>",
+      "Description": "Bittorrent software for cats",
+      "Stack": "Python",
+      "Development Status": "Active"
+    },
+    {
+      "Codebase": "<a href=\"https://github.com/NyaaPantsu/nyaa\">nyaa</a>",
+      "Description": "-",
+      "Stack": "Go",
+      "Development Status": ""
+    }
+  ]
+}
