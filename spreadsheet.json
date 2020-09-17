@@ -217,15 +217,6 @@
       "Application": "-"
     },
     {
-      "Name": "<a href=\"http://dmca.gripe\">dmca.gripe</a>",
-      "Type": "File sharing",
-      "Free volume": "1 GB",
-      "Shelf life": "-",
-      "Download count": "-",
-      "Language": "English",
-      "Application": "-"
-    },
-    {
       "Name": "<a href=\"https://upload.disroot.org\">Disroot</a>",
       "Type": "File sharing",
       "Free volume": "1 GB",
@@ -325,15 +316,6 @@
       "Application": "-"
     },
     {
-      "Name": "<a href=\"https://fuskbugg.se\">FuskBugg</a>",
-      "Type": "File sharing",
-      "Free volume": "20 GB",
-      "Shelf life": "-",
-      "Download count": "-",
-      "Language": "Swedish",
-      "Application": "-"
-    },
-    {
       "Name": "<a href=\"http://ge.tt\">ge.tt</a>",
       "Type": "File sharing",
       "Free volume": "250 MB",
@@ -352,12 +334,12 @@
       "Application": "-"
     },
     {
-      "Name": "<a href=\"https://minfil.com\">minfil</a>",
+      "Name": "<a href=\"https://forumfiles.com\">ForumFiles</a>",
       "Type": "File sharing",
       "Free volume": "20 GB",
       "Shelf life": "-",
       "Download count": "-",
-      "Language": "Swedish",
+      "Language": "English, Russian",
       "Application": "-"
     },
     {
@@ -409,15 +391,6 @@
       "Name": "<a href=\"https://send.tresorit.com\">Tresorit Send</a>",
       "Type": "File sharing",
       "Free volume": "5 GB",
-      "Shelf life": "-",
-      "Download count": "-",
-      "Language": "English",
-      "Application": "-"
-    },
-    {
-      "Name": "<a href=\"http://upfile.mobi\">UpFile</a>",
-      "Type": "File sharing",
-      "Free volume": "10 GB",
       "Shelf life": "-",
       "Download count": "-",
       "Language": "English",
